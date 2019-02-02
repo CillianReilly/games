@@ -21,7 +21,7 @@ p:{
 
   $[any all each t=g ./:/:(S,'/:(S;reverse S)),(first[i],'S;S,'last i);
       1"Congrats Player ",string[x+1]," !!";
-    not 2 any/null g[S;S];
+    not 2 any/null g;
       1"Draw match";
     not x
     ]
