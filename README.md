@@ -1,2 +1,2 @@
 # games
-Collection of some classic games or puzzles
+Collection of some classic games and puzzles.
