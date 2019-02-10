@@ -3,8 +3,7 @@
 //Pile size defaults to 12 if none given
 
 p:{	$[c:count[x]mod 4;
-		[1"Computer is thinking.";system sleep;
-		 1".";system sleep;-1".";
+		[1"Computer is thinking.";system sleep;1".";system sleep;-1".";
 		 -1"Computer takes ",string[c]," stone(s)";
 		 x:c _x
 		 ];
