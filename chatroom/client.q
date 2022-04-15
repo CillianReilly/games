@@ -7,4 +7,4 @@ init:{
 serverHandle:init[]
 
 send:{neg[x](`pub;y);}[serverHandle;]
-upd:0N!
+upd:-1@
