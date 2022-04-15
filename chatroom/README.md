@@ -13,3 +13,4 @@ q)send"message"
 
 * Publish meta messages e.g. client joined/left the chat
 * Use .z.pi to avoid calling send explicity  
+* Parametrize server port
