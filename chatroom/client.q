@@ -6,5 +6,5 @@ init:{
 
 serverHandle:init[]
 
-send:{neg[x](`pub;y);}[serverHandle;]
+send:{neg[x](`pub;.z.x[0],": ",y);}[serverHandle;]
 upd:-1@
