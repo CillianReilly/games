@@ -8,8 +8,8 @@
 lw:{
 	w:lower @[read0;`:/usr/share/dict/words;{-1"Error loading words: ",x;exit 1}];
 	w:w where all each w in .Q.a;
-	freq:key asc count each group raze w;
 	w:distinct w where 5=count each w;
+	freq:key asc count each group raze w;
 	w idesc(sum each freq?w)*(count distinct@)each w
 	}
 
