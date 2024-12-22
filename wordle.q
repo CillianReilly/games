@@ -21,12 +21,14 @@ f1:{all(all each(y where z=1)in/:x;not any each(=/:/)(y;x@\:)@\:where z=1)}
 f2:{x like @[y;where not z=2;:;"?"]}
 
 play:{
-	-1"";-1"top 5 (or less) suggestions are:";show 5 sublist x;-1"";
+	-1"";-1"suggestions are:";
+	-1 .Q.s(1+til c)!flip`best`repeating`random!c#/:(x;x where 5>(count distinct@)each x;(neg c:5&count x)?x);
 	1"input guess: ";g:@[lower trim@;;{x}]read0 0;
 	1"input score: ";s:@[value;;{x}]read0 0;
 	f[x;g;s]
 	}
 
 words:lw[]
+system"S ",string 6h$.z.t
 "today's answer is: ",first(1<count@)play/words
 exit 0
