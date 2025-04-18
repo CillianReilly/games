@@ -1,0 +1,6301 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-04-17T04:26:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4482136",
+        "addr:city": "Blanchardstown",
+        "addr:country": "IE",
+        "addr:street": "Blanchardstown Centre",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "phone": "+353 1 8223227",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3958705,
+              53.3926278
+            ],
+            [
+              -6.3957579,
+              53.3926284
+            ],
+            [
+              -6.3957576,
+              53.3926085
+            ],
+            [
+              -6.3954012,
+              53.3926105
+            ],
+            [
+              -6.3954033,
+              53.3927454
+            ],
+            [
+              -6.3957515,
+              53.3927434
+            ],
+            [
+              -6.3957511,
+              53.39272
+            ],
+            [
+              -6.3958719,
+              53.3927194
+            ],
+            [
+              -6.3958705,
+              53.3926278
+            ]
+          ]
+        ]
+      },
+      "id": "way/4482136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25761888",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "level": "0",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.0763191,
+              53.2755315
+            ],
+            [
+              -9.0759277,
+              53.2756643
+            ],
+            [
+              -9.075969,
+              53.2757078
+            ],
+            [
+              -9.0760176,
+              53.2756913
+            ],
+            [
+              -9.0760568,
+              53.2757326
+            ],
+            [
+              -9.075997,
+              53.2757529
+            ],
+            [
+              -9.076024,
+              53.2757813
+            ],
+            [
+              -9.0760837,
+              53.275761
+            ],
+            [
+              -9.0760903,
+              53.2757679
+            ],
+            [
+              -9.0764331,
+              53.2756516
+            ],
+            [
+              -9.0763191,
+              53.2755315
+            ]
+          ]
+        ]
+      },
+      "id": "way/25761888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26785742",
+        "addr:city": "Dublin",
+        "addr:housename": "Donaghmede Shopping Centre",
+        "addr:street": "Grange Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://mcdonalds.ie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1624672,
+              53.395667
+            ],
+            [
+              -6.1622796,
+              53.3955985
+            ],
+            [
+              -6.1620723,
+              53.3958002
+            ],
+            [
+              -6.162128,
+              53.3958206
+            ],
+            [
+              -6.1620951,
+              53.3958526
+            ],
+            [
+              -6.162227,
+              53.3959008
+            ],
+            [
+              -6.1624672,
+              53.395667
+            ]
+          ]
+        ]
+      },
+      "id": "way/26785742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31655191",
+        "addr:street": "Saintfield Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/castlereagh---saintfields/saintfield-road/8261040.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 06:00-24:00; Fr-Sa 00:00-24:00; Su 06:00-24:00",
+        "phone": "+44 28 9081 7247",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.8953981,
+              54.530952
+            ],
+            [
+              -5.8953763,
+              54.5307415
+            ],
+            [
+              -5.8951687,
+              54.5307487
+            ],
+            [
+              -5.8951905,
+              54.5309592
+            ],
+            [
+              -5.8953981,
+              54.530952
+            ]
+          ]
+        ]
+      },
+      "id": "way/31655191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34204343",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "operator": "McDonald's",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.5817149,
+              53.3816474
+            ],
+            [
+              -6.5813972,
+              53.3816195
+            ],
+            [
+              -6.5813573,
+              53.381781
+            ],
+            [
+              -6.581675,
+              53.381809
+            ],
+            [
+              -6.5817149,
+              53.3816474
+            ]
+          ]
+        ]
+      },
+      "id": "way/34204343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37720718",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "service",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3578545,
+              53.3212375
+            ],
+            [
+              -6.3576667,
+              53.3210553
+            ],
+            [
+              -6.3573497,
+              53.3211718
+            ],
+            [
+              -6.3575375,
+              53.321354
+            ],
+            [
+              -6.3578545,
+              53.3212375
+            ]
+          ]
+        ]
+      },
+      "id": "way/37720718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42422819",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.189503,
+              53.3954553
+            ],
+            [
+              -6.1896273,
+              53.3952853
+            ],
+            [
+              -6.1894753,
+              53.3952459
+            ],
+            [
+              -6.1893579,
+              53.3954176
+            ],
+            [
+              -6.189503,
+              53.3954553
+            ]
+          ]
+        ]
+      },
+      "id": "way/42422819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53827759",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3678255,
+              53.2873104
+            ],
+            [
+              -6.3676978,
+              53.2873251
+            ],
+            [
+              -6.3675518,
+              53.2873419
+            ],
+            [
+              -6.3676646,
+              53.2876922
+            ],
+            [
+              -6.3679383,
+              53.2876607
+            ],
+            [
+              -6.3679366,
+              53.2876553
+            ],
+            [
+              -6.3679241,
+              53.2876166
+            ],
+            [
+              -6.3678673,
+              53.2874403
+            ],
+            [
+              -6.3678255,
+              53.2873104
+            ]
+          ]
+        ]
+      },
+      "id": "way/53827759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54054335",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2677183,
+              53.2909911
+            ],
+            [
+              -6.2676996,
+              53.2909903
+            ],
+            [
+              -6.2677008,
+              53.2909662
+            ],
+            [
+              -6.2675988,
+              53.2909644
+            ],
+            [
+              -6.2675979,
+              53.2909818
+            ],
+            [
+              -6.2673575,
+              53.2909776
+            ],
+            [
+              -6.2673483,
+              53.291168
+            ],
+            [
+              -6.2677141,
+              53.2911729
+            ],
+            [
+              -6.2677183,
+              53.2909911
+            ]
+          ]
+        ]
+      },
+      "id": "way/54054335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/57913967",
+        "addr:street": "Leixlip Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4604094,
+              53.3551155
+            ],
+            [
+              -6.4602864,
+              53.3550881
+            ],
+            [
+              -6.4603052,
+              53.355058
+            ],
+            [
+              -6.4602449,
+              53.3550446
+            ],
+            [
+              -6.4602261,
+              53.3550747
+            ],
+            [
+              -6.4601834,
+              53.3550652
+            ],
+            [
+              -6.4600377,
+              53.3552982
+            ],
+            [
+              -6.4601731,
+              53.3553284
+            ],
+            [
+              -6.4602637,
+              53.3553485
+            ],
+            [
+              -6.4603073,
+              53.3552788
+            ],
+            [
+              -6.4603212,
+              53.3552819
+            ],
+            [
+              -6.4603941,
+              53.3551654
+            ],
+            [
+              -6.4603801,
+              53.3551623
+            ],
+            [
+              -6.4604094,
+              53.3551155
+            ]
+          ]
+        ]
+      },
+      "id": "way/57913967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62158980",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7369976,
+              54.9461306
+            ],
+            [
+              -7.7370365,
+              54.9461083
+            ],
+            [
+              -7.7370512,
+              54.9461168
+            ],
+            [
+              -7.7370816,
+              54.9460994
+            ],
+            [
+              -7.7370669,
+              54.9460909
+            ],
+            [
+              -7.7371043,
+              54.9460692
+            ],
+            [
+              -7.7371167,
+              54.9460767
+            ],
+            [
+              -7.7371436,
+              54.9460621
+            ],
+            [
+              -7.7371303,
+              54.946054
+            ],
+            [
+              -7.7371605,
+              54.9460364
+            ],
+            [
+              -7.7370447,
+              54.945969
+            ],
+            [
+              -7.737021,
+              54.9459689
+            ],
+            [
+              -7.7369777,
+              54.9459933
+            ],
+            [
+              -7.736962,
+              54.9459844
+            ],
+            [
+              -7.7369229,
+              54.9460073
+            ],
+            [
+              -7.7369379,
+              54.9460158
+            ],
+            [
+              -7.7369347,
+              54.9460176
+            ],
+            [
+              -7.7366964,
+              54.9461542
+            ],
+            [
+              -7.7367213,
+              54.9461686
+            ],
+            [
+              -7.7367102,
+              54.9461746
+            ],
+            [
+              -7.7367818,
+              54.9462179
+            ],
+            [
+              -7.7367947,
+              54.9462108
+            ],
+            [
+              -7.7368261,
+              54.9462289
+            ],
+            [
+              -7.7369047,
+              54.9461839
+            ],
+            [
+              -7.7369168,
+              54.9461908
+            ],
+            [
+              -7.7369472,
+              54.9461734
+            ],
+            [
+              -7.7369351,
+              54.9461665
+            ],
+            [
+              -7.7369673,
+              54.946148
+            ],
+            [
+              -7.7369799,
+              54.9461553
+            ],
+            [
+              -7.7370103,
+              54.9461379
+            ],
+            [
+              -7.7369976,
+              54.9461306
+            ]
+          ]
+        ]
+      },
+      "id": "way/62158980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78474056",
+        "addr:city": "Galway",
+        "addr:housename": "Galway Retail Park",
+        "addr:street": "Headford Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "level": "0",
+        "name": "McDonald's",
+        "payment:coins": "yes",
+        "payment:laser": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.0498538,
+              53.2800826
+            ],
+            [
+              -9.0498621,
+              53.2800701
+            ],
+            [
+              -9.0499089,
+              53.2800812
+            ],
+            [
+              -9.0499224,
+              53.280061
+            ],
+            [
+              -9.0499436,
+              53.2800661
+            ],
+            [
+              -9.0500951,
+              53.2798388
+            ],
+            [
+              -9.0499017,
+              53.2797928
+            ],
+            [
+              -9.0497511,
+              53.2800187
+            ],
+            [
+              -9.0497684,
+              53.2800228
+            ],
+            [
+              -9.049758,
+              53.2800384
+            ],
+            [
+              -9.0497754,
+              53.2800425
+            ],
+            [
+              -9.0497631,
+              53.280061
+            ],
+            [
+              -9.0498538,
+              53.2800826
+            ]
+          ]
+        ]
+      },
+      "id": "way/78474056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/83047459",
+        "addr:city": "Newry",
+        "addr:county": "Down",
+        "addr:place": "Damolly Retail Park",
+        "addr:postcode": "BT35 6PR",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/newry/newry---damolly-retail-park/damolly-retail-park/8261072.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "978777",
+        "fixme:addr:1": "Lisdrumgullion",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 06:00-01:00; Fr-Sa 00:00-24:00; Su 06:00-01:00",
+        "phone": "+44 28 3025 1512",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3506292,
+              54.1915758
+            ],
+            [
+              -6.3504259,
+              54.1913354
+            ],
+            [
+              -6.3502526,
+              54.1913856
+            ],
+            [
+              -6.3504559,
+              54.191626
+            ],
+            [
+              -6.3506292,
+              54.1915758
+            ]
+          ]
+        ]
+      },
+      "id": "way/83047459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87512539",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5532642,
+              52.6655155
+            ],
+            [
+              -8.5536176,
+              52.6654464
+            ],
+            [
+              -8.5535792,
+              52.6653742
+            ],
+            [
+              -8.5537159,
+              52.6653475
+            ],
+            [
+              -8.5536975,
+              52.6653128
+            ],
+            [
+              -8.5535785,
+              52.6653361
+            ],
+            [
+              -8.5535603,
+              52.6653019
+            ],
+            [
+              -8.5531892,
+              52.6653744
+            ],
+            [
+              -8.5532642,
+              52.6655155
+            ]
+          ]
+        ]
+      },
+      "id": "way/87512539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100815334",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "survey",
+        "source:geometry": "Bing",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.678191,
+              52.2648985
+            ],
+            [
+              -9.678252,
+              52.2647784
+            ],
+            [
+              -9.6778673,
+              52.2647052
+            ],
+            [
+              -9.6778063,
+              52.2648254
+            ],
+            [
+              -9.678191,
+              52.2648985
+            ]
+          ]
+        ]
+      },
+      "id": "way/100815334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100856571",
+        "addr:city": "Limerick",
+        "addr:street": "Jetland Shopping Centre",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "payment:coins": "yes",
+        "payment:laser": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "source": "survey",
+        "source:geometry": "Bing",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6614663,
+              52.6687325
+            ],
+            [
+              -8.6614086,
+              52.6686481
+            ],
+            [
+              -8.6613733,
+              52.6686595
+            ],
+            [
+              -8.6613611,
+              52.6686407
+            ],
+            [
+              -8.6610685,
+              52.6687163
+            ],
+            [
+              -8.6610822,
+              52.6687355
+            ],
+            [
+              -8.6610635,
+              52.6687412
+            ],
+            [
+              -8.6611089,
+              52.6687976
+            ],
+            [
+              -8.6611226,
+              52.6687941
+            ],
+            [
+              -8.6611384,
+              52.6688133
+            ],
+            [
+              -8.6612638,
+              52.6687836
+            ],
+            [
+              -8.6612696,
+              52.6687893
+            ],
+            [
+              -8.6613005,
+              52.6687818
+            ],
+            [
+              -8.6612941,
+              52.6687731
+            ],
+            [
+              -8.6613899,
+              52.6687495
+            ],
+            [
+              -8.6613942,
+              52.6687565
+            ],
+            [
+              -8.6614273,
+              52.6687478
+            ],
+            [
+              -8.6614216,
+              52.6687416
+            ],
+            [
+              -8.6614663,
+              52.6687325
+            ]
+          ]
+        ]
+      },
+      "id": "way/100856571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104670629",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3443205,
+              53.3274998
+            ],
+            [
+              -6.3437168,
+              53.327353
+            ],
+            [
+              -6.3436192,
+              53.3273293
+            ],
+            [
+              -6.3435559,
+              53.3274222
+            ],
+            [
+              -6.3436282,
+              53.3274398
+            ],
+            [
+              -6.3435801,
+              53.3275103
+            ],
+            [
+              -6.343895,
+              53.3275869
+            ],
+            [
+              -6.3438857,
+              53.3276005
+            ],
+            [
+              -6.3441762,
+              53.3276712
+            ],
+            [
+              -6.3441858,
+              53.3276571
+            ],
+            [
+              -6.3442093,
+              53.3276629
+            ],
+            [
+              -6.3443205,
+              53.3274998
+            ]
+          ]
+        ]
+      },
+      "id": "way/104670629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129924305",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2140076,
+              53.3828576
+            ],
+            [
+              -6.2139839,
+              53.3827632
+            ],
+            [
+              -6.2140783,
+              53.3827548
+            ],
+            [
+              -6.214092,
+              53.3828091
+            ],
+            [
+              -6.2141252,
+              53.3828062
+            ],
+            [
+              -6.214176,
+              53.3827482
+            ],
+            [
+              -6.2141592,
+              53.3826812
+            ],
+            [
+              -6.2137595,
+              53.3827169
+            ],
+            [
+              -6.2137524,
+              53.3826888
+            ],
+            [
+              -6.2134581,
+              53.3827152
+            ],
+            [
+              -6.2134388,
+              53.3827378
+            ],
+            [
+              -6.2135101,
+              53.3830129
+            ],
+            [
+              -6.2137197,
+              53.3829941
+            ],
+            [
+              -6.2136924,
+              53.3828858
+            ],
+            [
+              -6.2140076,
+              53.3828576
+            ]
+          ]
+        ]
+      },
+      "id": "way/129924305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148285426",
+        "addr:city": "Cavan",
+        "addr:postcode": "H12 EF85",
+        "addr:street": "Dublin Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.3306909,
+              53.9841244
+            ],
+            [
+              -7.3306684,
+              53.983907
+            ],
+            [
+              -7.3306275,
+              53.9839085
+            ],
+            [
+              -7.3306217,
+              53.9838531
+            ],
+            [
+              -7.3305323,
+              53.9838563
+            ],
+            [
+              -7.3305384,
+              53.983915
+            ],
+            [
+              -7.3304518,
+              53.9839181
+            ],
+            [
+              -7.330474,
+              53.9841321
+            ],
+            [
+              -7.3306909,
+              53.9841244
+            ]
+          ]
+        ]
+      },
+      "id": "way/148285426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149077342",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.2944189,
+              53.0299775
+            ],
+            [
+              -7.2940412,
+              53.0299877
+            ],
+            [
+              -7.2940505,
+              53.030111
+            ],
+            [
+              -7.2944282,
+              53.0301008
+            ],
+            [
+              -7.2944242,
+              53.0300472
+            ],
+            [
+              -7.2944189,
+              53.0299775
+            ]
+          ]
+        ]
+      },
+      "id": "way/149077342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150382127",
+        "addr:city": "Waterford",
+        "addr:street": "Cork Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "contact:facebook": "https://www.facebook.com/McDonalds/",
+        "contact:instagram": "https://www.instagram.com/mcdonaldsire/",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/ireland/waterford/cork-road/7019.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "website:orders": "https://www.just-eat.ie/restaurants-mcdonalds--cork-road-waterford/menu",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.1211348,
+              52.2490995
+            ],
+            [
+              -7.1213883,
+              52.2492814
+            ],
+            [
+              -7.1215377,
+              52.2492033
+            ],
+            [
+              -7.1212074,
+              52.2489664
+            ],
+            [
+              -7.1211323,
+              52.2490056
+            ],
+            [
+              -7.1212091,
+              52.2490607
+            ],
+            [
+              -7.1211348,
+              52.2490995
+            ]
+          ]
+        ]
+      },
+      "id": "way/150382127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150576131",
+        "addr:city": "Athlone",
+        "addr:housename": "Kilmartin's N6 Centre",
+        "addr:street": "Dublin Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.8937319,
+              53.4109233
+            ],
+            [
+              -7.8933195,
+              53.4110057
+            ],
+            [
+              -7.8933926,
+              53.4111358
+            ],
+            [
+              -7.8938389,
+              53.4110467
+            ],
+            [
+              -7.8938185,
+              53.4110106
+            ],
+            [
+              -7.8937894,
+              53.4110164
+            ],
+            [
+              -7.8937666,
+              53.4109758
+            ],
+            [
+              -7.8938234,
+              53.4109645
+            ],
+            [
+              -7.8937984,
+              53.4109201
+            ],
+            [
+              -7.893737,
+              53.4109324
+            ],
+            [
+              -7.8937319,
+              53.4109233
+            ]
+          ]
+        ]
+      },
+      "id": "way/150576131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152652403",
+        "addr:housenumber": "37",
+        "addr:street": "Trimgate Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "ref:IE:niah": "14009481",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.6868816,
+              53.652549
+            ],
+            [
+              -6.6867743,
+              53.6524917
+            ],
+            [
+              -6.6867544,
+              53.6524813
+            ],
+            [
+              -6.6866858,
+              53.6524456
+            ],
+            [
+              -6.68667,
+              53.6524345
+            ],
+            [
+              -6.6865351,
+              53.6523403
+            ],
+            [
+              -6.6864226,
+              53.6523836
+            ],
+            [
+              -6.6864966,
+              53.652439
+            ],
+            [
+              -6.6865958,
+              53.6525073
+            ],
+            [
+              -6.6867712,
+              53.652587
+            ],
+            [
+              -6.6867873,
+              53.6525807
+            ],
+            [
+              -6.6868211,
+              53.6525963
+            ],
+            [
+              -6.6868816,
+              53.652549
+            ]
+          ]
+        ]
+      },
+      "id": "way/152652403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157612767",
+        "addr:city": "Dungarvan",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.6293912,
+              52.0932358
+            ],
+            [
+              -7.6296361,
+              52.0932434
+            ],
+            [
+              -7.6296584,
+              52.092971
+            ],
+            [
+              -7.6294391,
+              52.0929643
+            ],
+            [
+              -7.6294331,
+              52.0930381
+            ],
+            [
+              -7.6294074,
+              52.0930373
+            ],
+            [
+              -7.6293912,
+              52.0932358
+            ]
+          ]
+        ]
+      },
+      "id": "way/157612767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159474341",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.87332,
+              52.5090777
+            ],
+            [
+              -7.873024,
+              52.5088952
+            ],
+            [
+              -7.8729639,
+              52.5089314
+            ],
+            [
+              -7.8729423,
+              52.5089181
+            ],
+            [
+              -7.8728617,
+              52.5089665
+            ],
+            [
+              -7.8728952,
+              52.5089871
+            ],
+            [
+              -7.8728576,
+              52.5090097
+            ],
+            [
+              -7.8731418,
+              52.5091848
+            ],
+            [
+              -7.87332,
+              52.5090777
+            ]
+          ]
+        ]
+      },
+      "id": "way/159474341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170822240",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-04-17",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Bing",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.4853014,
+              53.2734243
+            ],
+            [
+              -7.4851837,
+              53.2732368
+            ],
+            [
+              -7.4849866,
+              53.273281
+            ],
+            [
+              -7.4851043,
+              53.2734686
+            ],
+            [
+              -7.4853014,
+              53.2734243
+            ]
+          ]
+        ]
+      },
+      "id": "way/170822240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177396530",
+        "addr:floor": "G",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-03-15",
+        "cuisine": "burger",
+        "delivery": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "McDonald's",
+        "noaddress": "yes",
+        "opening_hours": "24/7",
+        "operator": "McDonald's",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+353 1 813 2673",
+        "roof:shape": "flat",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2233005,
+              53.4465568
+            ],
+            [
+              -6.2231052,
+              53.446285
+            ],
+            [
+              -6.2228878,
+              53.4463405
+            ],
+            [
+              -6.2230831,
+              53.4466122
+            ],
+            [
+              -6.2231918,
+              53.4465845
+            ],
+            [
+              -6.2233005,
+              53.4465568
+            ]
+          ]
+        ]
+      },
+      "id": "way/177396530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189347199",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "BT27 5QE",
+        "addr:street": "Hillsborough Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "restaurant",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "749041",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "phone": "+44 28 9266 1900",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/gb/en-gb/location/lisburn/sprucefield/sprucefield-shopping-centre/8260497.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.0608172,
+              54.4921757
+            ],
+            [
+              -6.0608196,
+              54.4921898
+            ],
+            [
+              -6.0611159,
+              54.4921725
+            ],
+            [
+              -6.0611083,
+              54.4921286
+            ],
+            [
+              -6.0611658,
+              54.4921253
+            ],
+            [
+              -6.0611424,
+              54.4919902
+            ],
+            [
+              -6.0610857,
+              54.4919935
+            ],
+            [
+              -6.0610825,
+              54.4919751
+            ],
+            [
+              -6.0606256,
+              54.4920018
+            ],
+            [
+              -6.0606574,
+              54.492185
+            ],
+            [
+              -6.0608172,
+              54.4921757
+            ]
+          ]
+        ]
+      },
+      "id": "way/189347199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228004121",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "bing",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.198502,
+              53.6058292
+            ],
+            [
+              -6.1981368,
+              53.6058044
+            ],
+            [
+              -6.1981143,
+              53.6059209
+            ],
+            [
+              -6.1984795,
+              53.6059458
+            ],
+            [
+              -6.198502,
+              53.6058292
+            ]
+          ]
+        ]
+      },
+      "id": "way/228004121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228837480",
+        "addr:city": "Ballymena",
+        "addr:postcode": "BT43 5EY",
+        "addr:street": "North Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/ballymena/ballymena/north-road/8260783.html",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "06:00-23:00 open \"Dining in\" || 00:00-24:00 open \"Drive-through\"",
+        "phone": "+44 28 2563 2330",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2798244,
+              54.8647524
+            ],
+            [
+              -6.2801166,
+              54.8649282
+            ],
+            [
+              -6.2801381,
+              54.8649164
+            ],
+            [
+              -6.2802026,
+              54.8649552
+            ],
+            [
+              -6.2802276,
+              54.8649565
+            ],
+            [
+              -6.280265,
+              54.8649376
+            ],
+            [
+              -6.2802705,
+              54.8648611
+            ],
+            [
+              -6.2802518,
+              54.8648499
+            ],
+            [
+              -6.2802648,
+              54.8648428
+            ],
+            [
+              -6.279976,
+              54.864669
+            ],
+            [
+              -6.2798244,
+              54.8647524
+            ]
+          ]
+        ]
+      },
+      "id": "way/228837480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233365414",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4055248,
+              53.9985608
+            ],
+            [
+              -6.4054544,
+              53.9985587
+            ],
+            [
+              -6.4054501,
+              53.9986075
+            ],
+            [
+              -6.4052846,
+              53.9986025
+            ],
+            [
+              -6.4052664,
+              53.998811
+            ],
+            [
+              -6.4055024,
+              53.998818
+            ],
+            [
+              -6.4055248,
+              53.9985608
+            ]
+          ]
+        ]
+      },
+      "id": "way/233365414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237686304",
+        "addr:street": "East Link Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-03-14",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/dundonald/dundonald/919-upper-newtownards-road/8260473.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "opening_hours:drive_through": "24/7",
+        "phone": "+44 28 9048 0100",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.8086761,
+              54.5945448
+            ],
+            [
+              -5.8086639,
+              54.5947283
+            ],
+            [
+              -5.8090446,
+              54.5947368
+            ],
+            [
+              -5.8090493,
+              54.5946671
+            ],
+            [
+              -5.8090559,
+              54.5945679
+            ],
+            [
+              -5.8089342,
+              54.5945651
+            ],
+            [
+              -5.8089352,
+              54.5945506
+            ],
+            [
+              -5.8086761,
+              54.5945448
+            ]
+          ]
+        ]
+      },
+      "id": "way/237686304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244086911",
+        "addr:city": "Killarney",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.4997182,
+              52.0605748
+            ],
+            [
+              -9.4998794,
+              52.0605627
+            ],
+            [
+              -9.4998427,
+              52.0603787
+            ],
+            [
+              -9.4996815,
+              52.0603909
+            ],
+            [
+              -9.4997182,
+              52.0605748
+            ]
+          ]
+        ]
+      },
+      "id": "way/244086911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244270416",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "check_date": "2025-02-07",
+        "check_date:diet:vegan": "2025-02-07",
+        "check_date:diet:vegetarian": "2025-02-07",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/connswater/connswater-retail-park/8260740.html",
+        "cuisine": "burger",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "phone": "+44 28 9045 7599",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.8915537,
+              54.5978967
+            ],
+            [
+              -5.89192,
+              54.5979473
+            ],
+            [
+              -5.8919633,
+              54.5978422
+            ],
+            [
+              -5.8916482,
+              54.5977987
+            ],
+            [
+              -5.8915304,
+              54.5977824
+            ],
+            [
+              -5.89152,
+              54.5978094
+            ],
+            [
+              -5.8914303,
+              54.5977961
+            ],
+            [
+              -5.8914125,
+              54.5978463
+            ],
+            [
+              -5.8915662,
+              54.5978663
+            ],
+            [
+              -5.8915537,
+              54.5978967
+            ]
+          ]
+        ]
+      },
+      "id": "way/244270416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249210746",
+        "addr:city": "Dublin",
+        "addr:housenumber": "50-51",
+        "addr:street": "O'Connell Street Lower",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/McDonalds/",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "outdoor_seating": "no",
+        "phone": "00353 1 8720050",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/ireland/oconnell-street-2/50-51-oconnell-street/7017.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2598125,
+              53.3478398
+            ],
+            [
+              -6.259862,
+              53.3479543
+            ],
+            [
+              -6.2601753,
+              53.3479009
+            ],
+            [
+              -6.2601328,
+              53.3477817
+            ],
+            [
+              -6.2598125,
+              53.3478398
+            ]
+          ]
+        ]
+      },
+      "id": "way/249210746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252447543",
+        "addr:city": "Cookstown",
+        "addr:country": "GB",
+        "addr:postcode": "BT80 8TL",
+        "addr:street": "Sweep Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/cookstown/cookstown---n-ireland/sweep-road/8261017.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "762009",
+        "internet_access": "wlan",
+        "layer": "1",
+        "name": "McDonald's",
+        "opening_hours": "Mo 07:00-24:00; Tu-We 07:00-23:00; Th-Fr 07:00-24:00; Sa-Su 00:00-24:00",
+        "payment:cash": "yes",
+        "phone": "+44 28 8676 7814",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.7437178,
+              54.6337435
+            ],
+            [
+              -6.7442203,
+              54.6337968
+            ],
+            [
+              -6.7442383,
+              54.6337397
+            ],
+            [
+              -6.7441901,
+              54.6337346
+            ],
+            [
+              -6.7442153,
+              54.6336551
+            ],
+            [
+              -6.7437611,
+              54.6336069
+            ],
+            [
+              -6.7437178,
+              54.6337435
+            ]
+          ]
+        ]
+      },
+      "id": "way/252447543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264522914",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ie/",
+        "wheelchair": "limited",
+        "wheelchair:description": "No stairs to enter but there is second floor but there is seating on first floor."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.8066466,
+              53.1739242
+            ],
+            [
+              -6.806649,
+              53.1739526
+            ],
+            [
+              -6.8068002,
+              53.1740302
+            ],
+            [
+              -6.8071146,
+              53.1737945
+            ],
+            [
+              -6.8070535,
+              53.1737613
+            ],
+            [
+              -6.8070012,
+              53.1737979
+            ],
+            [
+              -6.8068854,
+              53.1737401
+            ],
+            [
+              -6.8066466,
+              53.1739242
+            ]
+          ]
+        ]
+      },
+      "id": "way/264522914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/271033351",
+        "addr:housename": "McDonalds",
+        "addr:street": "Swords Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-07-01",
+        "cuisine": "burger",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su,PH 07:00-00:30",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2465552,
+              53.3935361
+            ],
+            [
+              -6.2465601,
+              53.3932986
+            ],
+            [
+              -6.2464346,
+              53.3932977
+            ],
+            [
+              -6.2464346,
+              53.3932911
+            ],
+            [
+              -6.2464345,
+              53.3932845
+            ],
+            [
+              -6.2463955,
+              53.3932845
+            ],
+            [
+              -6.2463953,
+              53.3932974
+            ],
+            [
+              -6.246356,
+              53.3932971
+            ],
+            [
+              -6.2463511,
+              53.3935346
+            ],
+            [
+              -6.2465552,
+              53.3935361
+            ]
+          ]
+        ]
+      },
+      "id": "way/271033351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/271970897",
+        "addr:city": "Dublin",
+        "addr:housenumber": "9-11",
+        "addr:street": "Grafton Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/McDonalds/",
+        "contact:instagram": "https://www.instagram.com/mcdonalds/",
+        "cuisine": "burger",
+        "indoor_seating": "yes",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/ireland/grafton-street/9-10-grafton-sreet/7001.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2593214,
+              53.3426491
+            ],
+            [
+              -6.2594891,
+              53.3426722
+            ],
+            [
+              -6.2595414,
+              53.3425392
+            ],
+            [
+              -6.2595192,
+              53.3425365
+            ],
+            [
+              -6.259368,
+              53.3425178
+            ],
+            [
+              -6.2593697,
+              53.3425122
+            ],
+            [
+              -6.2593421,
+              53.3425089
+            ],
+            [
+              -6.2592839,
+              53.3425018
+            ],
+            [
+              -6.2592821,
+              53.3425218
+            ],
+            [
+              -6.2592709,
+              53.3425521
+            ],
+            [
+              -6.259352,
+              53.3425627
+            ],
+            [
+              -6.2593214,
+              53.3426491
+            ]
+          ]
+        ]
+      },
+      "id": "way/271970897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274870715",
+        "amenity": "fast_food",
+        "amenity_1": "toilets",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "smoking": "outside",
+        "source": "survey, GPS",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.2268876,
+              52.658572
+            ],
+            [
+              -7.2268352,
+              52.6584493
+            ],
+            [
+              -7.2262611,
+              52.6585395
+            ],
+            [
+              -7.2263135,
+              52.6586622
+            ],
+            [
+              -7.2268876,
+              52.658572
+            ]
+          ]
+        ]
+      },
+      "id": "way/274870715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282880126",
+        "addr:street": "Northwood Avenue",
+        "alt_name": "McDonald's Ballymun Drive Thru",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "nohousenumber": "yes",
+        "opening_hours": "24/7",
+        "phone": "+353 1 842-8721",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ie",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2599356,
+              53.4040121
+            ],
+            [
+              -6.2599298,
+              53.4040232
+            ],
+            [
+              -6.2598223,
+              53.4040034
+            ],
+            [
+              -6.2597814,
+              53.4040822
+            ],
+            [
+              -6.259889,
+              53.404102
+            ],
+            [
+              -6.2598757,
+              53.4041276
+            ],
+            [
+              -6.2602268,
+              53.4041923
+            ],
+            [
+              -6.2602867,
+              53.4040768
+            ],
+            [
+              -6.2599356,
+              53.4040121
+            ]
+          ]
+        ]
+      },
+      "id": "way/282880126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288391127",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-04-30",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+353-1-294-6688",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1847342,
+              53.2512612
+            ],
+            [
+              -6.1847926,
+              53.2510032
+            ],
+            [
+              -6.1847591,
+              53.2510005
+            ],
+            [
+              -6.1847688,
+              53.2509574
+            ],
+            [
+              -6.1846534,
+              53.2509481
+            ],
+            [
+              -6.1846438,
+              53.2509905
+            ],
+            [
+              -6.1845609,
+              53.2509838
+            ],
+            [
+              -6.1845026,
+              53.2512425
+            ],
+            [
+              -6.1846646,
+              53.2512555
+            ],
+            [
+              -6.1847342,
+              53.2512612
+            ]
+          ]
+        ]
+      },
+      "id": "way/288391127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302000386",
+        "addr:city": "Sligo",
+        "addr:street": "Carraroe Retail Park",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4743597,
+              54.251422
+            ],
+            [
+              -8.47434,
+              54.2511417
+            ],
+            [
+              -8.4741,
+              54.2511472
+            ],
+            [
+              -8.4741206,
+              54.2514283
+            ],
+            [
+              -8.4743597,
+              54.251422
+            ]
+          ]
+        ]
+      },
+      "id": "way/302000386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316971230",
+        "addr:city": "Dublin",
+        "addr:housenumber": "62",
+        "addr:postcode": "D01 TV20",
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "commercial",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "operator": "McDonald's",
+        "phone": "01 8724487",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/ireland/oconnell-street/62-upper-oconnell-street/7002.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2610135,
+              53.3501957
+            ],
+            [
+              -6.2608107,
+              53.3502289
+            ],
+            [
+              -6.2608414,
+              53.3502961
+            ],
+            [
+              -6.2610437,
+              53.3502637
+            ],
+            [
+              -6.2610135,
+              53.3501957
+            ]
+          ]
+        ]
+      },
+      "id": "way/316971230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331549608",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/westwood-shopping-centre/westwood-centre/8260625.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo 06:00-24:00; Tu 06:00-23:00; We-Th 06:00-24:00; Fr 06:00-04:59; Sa 00:00-24:00; Su 05:00-24:00",
+        "phone": "+44 28 9022 1151",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9795132,
+              54.5772413
+            ],
+            [
+              -5.9791614,
+              54.5771157
+            ],
+            [
+              -5.9790442,
+              54.5772259
+            ],
+            [
+              -5.9794052,
+              54.5773548
+            ],
+            [
+              -5.9794207,
+              54.5773402
+            ],
+            [
+              -5.9794712,
+              54.5773583
+            ],
+            [
+              -5.9795161,
+              54.577316
+            ],
+            [
+              -5.9794564,
+              54.5772947
+            ],
+            [
+              -5.9795132,
+              54.5772413
+            ]
+          ]
+        ]
+      },
+      "id": "way/331549608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338621036",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-03-14",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/bangor/bangor-bloomfield-shopping-centre/bloomfield-shopping-centre/8260454.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "opening_hours:drive_through": "Mo-Su 06:00-24:00; Fr,Sa 00:00-24:00",
+        "phone": "+44 28 9127 3300",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.6587278,
+              54.6471793
+            ],
+            [
+              -5.6586999,
+              54.6471394
+            ],
+            [
+              -5.6587765,
+              54.6471215
+            ],
+            [
+              -5.6587025,
+              54.6470154
+            ],
+            [
+              -5.6586288,
+              54.6470327
+            ],
+            [
+              -5.6586003,
+              54.6469919
+            ],
+            [
+              -5.6582171,
+              54.6470814
+            ],
+            [
+              -5.658335,
+              54.6472503
+            ],
+            [
+              -5.6584443,
+              54.6472248
+            ],
+            [
+              -5.6584568,
+              54.6472427
+            ],
+            [
+              -5.6587278,
+              54.6471793
+            ]
+          ]
+        ]
+      },
+      "id": "way/338621036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/363385489",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "operator": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7981361,
+              52.9464361
+            ],
+            [
+              -7.7981149,
+              52.9463385
+            ],
+            [
+              -7.7979979,
+              52.9463477
+            ],
+            [
+              -7.797995,
+              52.9463343
+            ],
+            [
+              -7.7976947,
+              52.9463579
+            ],
+            [
+              -7.7977244,
+              52.9464954
+            ],
+            [
+              -7.7980302,
+              52.9464714
+            ],
+            [
+              -7.7980244,
+              52.9464448
+            ],
+            [
+              -7.7981361,
+              52.9464361
+            ]
+          ]
+        ]
+      },
+      "id": "way/363385489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371002666",
+        "addr:city": "Dún Laoghaire",
+        "addr:county": "Dublin",
+        "addr:housenumber": "30",
+        "addr:postcode": "A96 Y738",
+        "addr:street": "George's Street Upper",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "level": "0",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+353-1-280-4087",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/county-dublin/dun-laoghaire/30-upper-georges-street/7003.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1338831,
+              53.2912496
+            ],
+            [
+              -6.1339499,
+              53.2911933
+            ],
+            [
+              -6.1338464,
+              53.2911494
+            ],
+            [
+              -6.1338324,
+              53.2911612
+            ],
+            [
+              -6.1337796,
+              53.2912057
+            ],
+            [
+              -6.1338831,
+              53.2912496
+            ]
+          ]
+        ]
+      },
+      "id": "way/371002666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378988114",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.6568706,
+              53.2407364
+            ],
+            [
+              -6.6566744,
+              53.2406717
+            ],
+            [
+              -6.6564661,
+              53.2408978
+            ],
+            [
+              -6.6566624,
+              53.2409625
+            ],
+            [
+              -6.6568706,
+              53.2407364
+            ]
+          ]
+        ]
+      },
+      "id": "way/378988114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393620781",
+        "addr:city": "Douglas",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4334785,
+              51.8782855
+            ],
+            [
+              -8.4337159,
+              51.878172
+            ],
+            [
+              -8.4334204,
+              51.8779364
+            ],
+            [
+              -8.4331982,
+              51.8780426
+            ],
+            [
+              -8.433183,
+              51.8780499
+            ],
+            [
+              -8.4334785,
+              51.8782855
+            ]
+          ]
+        ]
+      },
+      "id": "way/393620781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396424662",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5857771,
+              51.8893603
+            ],
+            [
+              -8.585777,
+              51.8893464
+            ],
+            [
+              -8.585776,
+              51.8892332
+            ],
+            [
+              -8.5857758,
+              51.8892077
+            ],
+            [
+              -8.5855228,
+              51.8892085
+            ],
+            [
+              -8.5855229,
+              51.8892216
+            ],
+            [
+              -8.5851692,
+              51.8892227
+            ],
+            [
+              -8.5851702,
+              51.8893401
+            ],
+            [
+              -8.5851904,
+              51.88934
+            ],
+            [
+              -8.5851905,
+              51.8893526
+            ],
+            [
+              -8.5856283,
+              51.889351
+            ],
+            [
+              -8.5856284,
+              51.8893608
+            ],
+            [
+              -8.5857771,
+              51.8893603
+            ]
+          ]
+        ]
+      },
+      "id": "way/396424662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398892958",
+        "addr:city": "Newtownabbey",
+        "addr:housenumber": "5",
+        "addr:postcode": "BT37 9UL",
+        "addr:street": "Longwood Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "751912",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "phone": "+44 28 9086 6551",
+        "self_service": "yes",
+        "source": "FHRS",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/gb/en-gb/location/newtownabbey/newtownabbey/5-longwood-road/8260561.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.917116,
+              54.6550485
+            ],
+            [
+              -5.9173469,
+              54.6548526
+            ],
+            [
+              -5.9171606,
+              54.6547791
+            ],
+            [
+              -5.9169297,
+              54.6549751
+            ],
+            [
+              -5.917116,
+              54.6550485
+            ]
+          ]
+        ]
+      },
+      "id": "way/398892958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398907244",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "4",
+        "check_date": "2023-12-12",
+        "cuisine": "burger",
+        "disused:amenity": "fast_food",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6260337,
+              52.6642897
+            ],
+            [
+              -8.6261222,
+              52.6642049
+            ],
+            [
+              -8.6260405,
+              52.6641663
+            ],
+            [
+              -8.6259851,
+              52.6642136
+            ],
+            [
+              -8.6259406,
+              52.6642547
+            ],
+            [
+              -8.6260337,
+              52.6642897
+            ]
+          ]
+        ]
+      },
+      "id": "way/398907244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530636021",
+        "addr:postcode": "BT38 8BE",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/carrickfergus/carrickfergus/9-rodgers-quay/8260806.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "864603",
+        "fhrs:rating": "5",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 06:00-24:00; Fr-Sa 00:00-24:00; Su 06:00-24:00",
+        "phone": "+44 28 9335 9990",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.8138304,
+              54.7126106
+            ],
+            [
+              -5.8137843,
+              54.7124946
+            ],
+            [
+              -5.8133425,
+              54.7125532
+            ],
+            [
+              -5.8133564,
+              54.7125882
+            ],
+            [
+              -5.8134251,
+              54.7125791
+            ],
+            [
+              -5.8134573,
+              54.7126601
+            ],
+            [
+              -5.8138304,
+              54.7126106
+            ]
+          ]
+        ]
+      },
+      "id": "way/530636021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/541774357",
+        "addr:street": "Corballis Road North",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-09-28",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "McDonald's",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2357369,
+              53.4289026
+            ],
+            [
+              -6.2357014,
+              53.4290457
+            ],
+            [
+              -6.2360486,
+              53.4290763
+            ],
+            [
+              -6.2360786,
+              53.4289559
+            ],
+            [
+              -6.2357369,
+              53.4289026
+            ]
+          ]
+        ]
+      },
+      "id": "way/541774357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544256110",
+        "addr:city": "Dublin",
+        "addr:street": "East Wall Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2323439,
+              53.3564707
+            ],
+            [
+              -6.2321301,
+              53.3563717
+            ],
+            [
+              -6.2321892,
+              53.3563263
+            ],
+            [
+              -6.2321506,
+              53.3563084
+            ],
+            [
+              -6.2321857,
+              53.3562814
+            ],
+            [
+              -6.2319614,
+              53.3561775
+            ],
+            [
+              -6.2317635,
+              53.3563295
+            ],
+            [
+              -6.2322402,
+              53.3565504
+            ],
+            [
+              -6.2323439,
+              53.3564707
+            ]
+          ]
+        ]
+      },
+      "id": "way/544256110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549637646",
+        "addr:housenumber": "8",
+        "addr:postcode": "BT51 3NA",
+        "addr:street": "Riverside Park East",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/coleraine/coleraine/8-riverside-park-east/8260563.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo 00:00-24:00; Tu 05:00-23:00; We 05:00-24:00; Th 07:00-04:59; Fr-Su 00:00-24:00",
+        "phone": "+44 28 7032 1500",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.6741234,
+              55.1221189
+            ],
+            [
+              -6.6739464,
+              55.1220289
+            ],
+            [
+              -6.673869,
+              55.1220786
+            ],
+            [
+              -6.6737818,
+              55.1220342
+            ],
+            [
+              -6.6735729,
+              55.1221684
+            ],
+            [
+              -6.6738372,
+              55.1223029
+            ],
+            [
+              -6.6741234,
+              55.1221189
+            ]
+          ]
+        ]
+      },
+      "id": "way/549637646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556540026",
+        "addr:city": "Dublin",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "2",
+        "building:material": "wood",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "roof:levels": "1",
+        "roof:shape": "flat",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4229064,
+              53.2838577
+            ],
+            [
+              -6.4230635,
+              53.2836559
+            ],
+            [
+              -6.4228964,
+              53.2836094
+            ],
+            [
+              -6.422839,
+              53.2835934
+            ],
+            [
+              -6.422682,
+              53.2837953
+            ],
+            [
+              -6.4229064,
+              53.2838577
+            ]
+          ]
+        ]
+      },
+      "id": "way/556540026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558861889",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/belfast---boucher-road/1-3-glenmachan-street/8261432.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "phone": "+44 28 9031 4844",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9583283,
+              54.5879198
+            ],
+            [
+              -5.9580024,
+              54.587848
+            ],
+            [
+              -5.9580094,
+              54.5878375
+            ],
+            [
+              -5.9578591,
+              54.5878044
+            ],
+            [
+              -5.9577767,
+              54.5879301
+            ],
+            [
+              -5.9582555,
+              54.5880354
+            ],
+            [
+              -5.9582831,
+              54.5879932
+            ],
+            [
+              -5.9583005,
+              54.5879971
+            ],
+            [
+              -5.9583286,
+              54.5879542
+            ],
+            [
+              -5.9583086,
+              54.5879498
+            ],
+            [
+              -5.9583283,
+              54.5879198
+            ]
+          ]
+        ]
+      },
+      "id": "way/558861889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/582835121",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1113008,
+              53.2007189
+            ],
+            [
+              -6.1113891,
+              53.2004143
+            ],
+            [
+              -6.1111484,
+              53.2003892
+            ],
+            [
+              -6.1110601,
+              53.2006939
+            ],
+            [
+              -6.1111805,
+              53.2007064
+            ],
+            [
+              -6.1113008,
+              53.2007189
+            ]
+          ]
+        ]
+      },
+      "id": "way/582835121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641344231",
+        "addr:street": "Commons Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "check_date": "2023-08-21",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4822132,
+              51.9197699
+            ],
+            [
+              -8.4820802,
+              51.9196501
+            ],
+            [
+              -8.4816999,
+              51.9198107
+            ],
+            [
+              -8.4818329,
+              51.9199305
+            ],
+            [
+              -8.4818825,
+              51.9199096
+            ],
+            [
+              -8.4822132,
+              51.9197699
+            ]
+          ]
+        ]
+      },
+      "id": "way/641344231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/644459953",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/belfast---shore-road/233-shore-road/8261525.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 28 9078 1486",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9232657,
+              54.6288174
+            ],
+            [
+              -5.9234788,
+              54.6285483
+            ],
+            [
+              -5.9232982,
+              54.6285004
+            ],
+            [
+              -5.9230851,
+              54.6287694
+            ],
+            [
+              -5.9232657,
+              54.6288174
+            ]
+          ]
+        ]
+      },
+      "id": "way/644459953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/678177301",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/newtownabbey/glengormley---belfast/antrim-road/8260721.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo 06:00-24:00; Tu 06:00-23:00; We-Th 06:00-24:00; Fr-Sa 00:00-24:00; Su 05:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+44 28 9083 8900",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9556373,
+              54.6689291
+            ],
+            [
+              -5.9553449,
+              54.6688288
+            ],
+            [
+              -5.9552386,
+              54.6689325
+            ],
+            [
+              -5.9554881,
+              54.669018
+            ],
+            [
+              -5.9555701,
+              54.6690415
+            ],
+            [
+              -5.9555802,
+              54.6690266
+            ],
+            [
+              -5.9556899,
+              54.6690669
+            ],
+            [
+              -5.9557695,
+              54.6689934
+            ],
+            [
+              -5.9556267,
+              54.6689466
+            ],
+            [
+              -5.9556373,
+              54.6689291
+            ]
+          ]
+        ]
+      },
+      "id": "way/678177301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/679766360",
+        "addr:city": "Wexford",
+        "addr:housename": "Drinagh Retail Park",
+        "addr:street": "Rosslare Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/McDonaldsIreland/",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:30",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/co-wexford/wexford/drinagh-retail-park/7080.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.458439,
+              52.3042956
+            ],
+            [
+              -6.458472,
+              52.3040634
+            ],
+            [
+              -6.4583255,
+              52.3040556
+            ],
+            [
+              -6.4582634,
+              52.3040533
+            ],
+            [
+              -6.4582391,
+              52.304281
+            ],
+            [
+              -6.4582604,
+              52.3042821
+            ],
+            [
+              -6.4582526,
+              52.304337
+            ],
+            [
+              -6.4583851,
+              52.304344
+            ],
+            [
+              -6.4583923,
+              52.3042931
+            ],
+            [
+              -6.458439,
+              52.3042956
+            ]
+          ]
+        ]
+      },
+      "id": "way/679766360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690745775",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/newtownards/newtownards/5-ards-shopping-centre/8261214.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 06:00-24:00; Fr-Sa 00:00-24:00; Su 05:00-24:00",
+        "phone": "+44 28 9182 3962",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7081267,
+              54.5922138
+            ],
+            [
+              -5.7083297,
+              54.5921273
+            ],
+            [
+              -5.7080535,
+              54.5919096
+            ],
+            [
+              -5.7079997,
+              54.5919326
+            ],
+            [
+              -5.7080446,
+              54.591968
+            ],
+            [
+              -5.7078954,
+              54.5920315
+            ],
+            [
+              -5.7081267,
+              54.5922138
+            ]
+          ]
+        ]
+      },
+      "id": "way/690745775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690746333",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/craigavon/rushmere---shopping-centre/rushmere-retail-park/8261204.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "layer": "1",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 06:30-24:00",
+        "phone": "+44 28 3834 8804",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3921236,
+              54.45027
+            ],
+            [
+              -6.3921998,
+              54.4502508
+            ],
+            [
+              -6.3925615,
+              54.4501596
+            ],
+            [
+              -6.3925275,
+              54.450114
+            ],
+            [
+              -6.3924431,
+              54.4501353
+            ],
+            [
+              -6.3923786,
+              54.4500488
+            ],
+            [
+              -6.3920251,
+              54.450138
+            ],
+            [
+              -6.3921236,
+              54.45027
+            ]
+          ]
+        ]
+      },
+      "id": "way/690746333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690746827",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/portadown/portadown/the-meadows-shopping-centre/8260795.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "payment:cash": "yes",
+        "phone": "+44 28 3833 5700",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4396063,
+              54.422061
+            ],
+            [
+              -6.4397537,
+              54.4220192
+            ],
+            [
+              -6.4396411,
+              54.4218849
+            ],
+            [
+              -6.4394938,
+              54.4219267
+            ],
+            [
+              -6.4396063,
+              54.422061
+            ]
+          ]
+        ]
+      },
+      "id": "way/690746827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/713145198",
+        "addr:city": "Belfast",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "BT1 5BA",
+        "addr:street": "Donegall Place",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "fhrs:id": "58983",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "phone": "+44 28 9031 1600",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/belfast-2/2-4-donegal-place/8260428.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9297241,
+              54.5991079
+            ],
+            [
+              -5.9297364,
+              54.5991915
+            ],
+            [
+              -5.9301261,
+              54.5991478
+            ],
+            [
+              -5.9301744,
+              54.5991105
+            ],
+            [
+              -5.9301716,
+              54.5990799
+            ],
+            [
+              -5.9299259,
+              54.5990982
+            ],
+            [
+              -5.9298902,
+              54.5990988
+            ],
+            [
+              -5.9298846,
+              54.5990699
+            ],
+            [
+              -5.9297518,
+              54.599077
+            ],
+            [
+              -5.9297542,
+              54.5991071
+            ],
+            [
+              -5.9297241,
+              54.5991079
+            ]
+          ]
+        ]
+      },
+      "id": "way/713145198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738224150",
+        "addr:city": "Londonderry",
+        "addr:housenumber": "20",
+        "addr:postcode": "BT47 6SA",
+        "addr:street": "Crescent Link Retail Park",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/londonderry/londonderry---crescent-link/8-crescent-link-retail-park/8261212.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 07:00-24:00; Fr-Su 07:00-01:00",
+        "phone": "+44 28 7132 9900",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.274427,
+              54.99889
+            ],
+            [
+              -7.2744092,
+              54.9990018
+            ],
+            [
+              -7.2749353,
+              54.9990295
+            ],
+            [
+              -7.2749532,
+              54.9989177
+            ],
+            [
+              -7.274427,
+              54.99889
+            ]
+          ]
+        ]
+      },
+      "id": "way/738224150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753677733",
+        "addr:city": "Cork",
+        "addr:street": "Kinsale Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4688914,
+              51.8813634
+            ],
+            [
+              -8.468988,
+              51.8810932
+            ],
+            [
+              -8.4688921,
+              51.8810801
+            ],
+            [
+              -8.4687966,
+              51.8810671
+            ],
+            [
+              -8.4686999,
+              51.8813373
+            ],
+            [
+              -8.4688914,
+              51.8813634
+            ]
+          ]
+        ]
+      },
+      "id": "way/753677733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784242303",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1761393,
+              51.913484
+            ],
+            [
+              -8.1761299,
+              51.9133658
+            ],
+            [
+              -8.1756259,
+              51.9133811
+            ],
+            [
+              -8.1756353,
+              51.9134993
+            ],
+            [
+              -8.1761393,
+              51.913484
+            ]
+          ]
+        ]
+      },
+      "id": "way/784242303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823115504",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.8030278,
+              53.7409433
+            ],
+            [
+              -7.8030254,
+              53.7409005
+            ],
+            [
+              -7.8029549,
+              53.7409019
+            ],
+            [
+              -7.8029487,
+              53.7407954
+            ],
+            [
+              -7.8025456,
+              53.7408036
+            ],
+            [
+              -7.8025542,
+              53.7409528
+            ],
+            [
+              -7.8030278,
+              53.7409433
+            ]
+          ]
+        ]
+      },
+      "id": "way/823115504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832393114",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/antrim/antrim---the-junction-retail-park/junction-one-retail-park/8261534.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 07:00-01:00; Fr-Sa 00:00-24:00; Su 07:00-01:00",
+        "phone": "+44 28 9446 1983",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2289624,
+              54.7312391
+            ],
+            [
+              -6.2286385,
+              54.7309503
+            ],
+            [
+              -6.2284169,
+              54.7310332
+            ],
+            [
+              -6.228741,
+              54.731322
+            ],
+            [
+              -6.2289624,
+              54.7312391
+            ]
+          ]
+        ]
+      },
+      "id": "way/832393114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/856860334",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "description": "fast food",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3062921,
+              53.4036219
+            ],
+            [
+              -6.3061353,
+              53.403403
+            ],
+            [
+              -6.3061118,
+              53.403409
+            ],
+            [
+              -6.3060781,
+              53.403362
+            ],
+            [
+              -6.3059753,
+              53.4033882
+            ],
+            [
+              -6.3059904,
+              53.4034094
+            ],
+            [
+              -6.3059538,
+              53.4034187
+            ],
+            [
+              -6.3061291,
+              53.4036634
+            ],
+            [
+              -6.3062921,
+              53.4036219
+            ]
+          ]
+        ]
+      },
+      "id": "way/856860334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/907816693",
+        "addr:city": "Belfast",
+        "addr:housenumber": "2",
+        "addr:postcode": "BT4 2PW",
+        "addr:street": "Knocknagoney Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/tesco-knocknagoney/33-knocknagoney-road/8261570.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "1207017",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+44 28 9076 9058",
+        "self_service": "yes",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.8573872,
+              54.6217402
+            ],
+            [
+              -5.857395,
+              54.6217187
+            ],
+            [
+              -5.8574905,
+              54.6217302
+            ],
+            [
+              -5.8575207,
+              54.6216464
+            ],
+            [
+              -5.8574211,
+              54.6216344
+            ],
+            [
+              -5.857431,
+              54.6216071
+            ],
+            [
+              -5.8569993,
+              54.6215548
+            ],
+            [
+              -5.8569513,
+              54.6216874
+            ],
+            [
+              -5.8573872,
+              54.6217402
+            ]
+          ]
+        ]
+      },
+      "id": "way/907816693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/983115832",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2726127,
+              53.3621286
+            ],
+            [
+              -6.2726113,
+              53.3620326
+            ],
+            [
+              -6.2724979,
+              53.3620218
+            ],
+            [
+              -6.2723954,
+              53.3620131
+            ],
+            [
+              -6.2720737,
+              53.3619415
+            ],
+            [
+              -6.2720564,
+              53.3620014
+            ],
+            [
+              -6.2721328,
+              53.3620229
+            ],
+            [
+              -6.2721191,
+              53.3620774
+            ],
+            [
+              -6.2726127,
+              53.3621286
+            ]
+          ]
+        ]
+      },
+      "id": "way/983115832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000280541",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/strabane/strabane/37-railway-street/8261523.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "phone": "+44 28 7188 6002",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.4682069,
+              54.8294272
+            ],
+            [
+              -7.4683477,
+              54.8293393
+            ],
+            [
+              -7.4679927,
+              54.8291506
+            ],
+            [
+              -7.4679732,
+              54.8291628
+            ],
+            [
+              -7.4678758,
+              54.829111
+            ],
+            [
+              -7.4677809,
+              54.8291702
+            ],
+            [
+              -7.4678555,
+              54.8292099
+            ],
+            [
+              -7.467829,
+              54.8292264
+            ],
+            [
+              -7.4682069,
+              54.8294272
+            ]
+          ]
+        ]
+      },
+      "id": "way/1000280541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1036510005",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/dunmurry/belfast---mckinstry-road/mckinstry-road/8261601.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "phone": "+44 28 9030 8324",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.0275372,
+              54.5449816
+            ],
+            [
+              -6.0275939,
+              54.544933
+            ],
+            [
+              -6.0274694,
+              54.5448841
+            ],
+            [
+              -6.0271508,
+              54.5451569
+            ],
+            [
+              -6.0271708,
+              54.5451647
+            ],
+            [
+              -6.0271501,
+              54.5451824
+            ],
+            [
+              -6.0272786,
+              54.5452329
+            ],
+            [
+              -6.0273028,
+              54.5452122
+            ],
+            [
+              -6.0273207,
+              54.5452192
+            ],
+            [
+              -6.0275791,
+              54.544998
+            ],
+            [
+              -6.0275372,
+              54.5449816
+            ]
+          ]
+        ]
+      },
+      "id": "way/1036510005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1043593539",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2024-08-31",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "outdoor_seating": "yes",
+        "phone": "+44 28 2827 4293",
+        "self_service": "yes",
+        "start_date": "2022",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/gb/en-gb/location/larne/larne/circular-road/8261652.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.8171284,
+              54.8492803
+            ],
+            [
+              -5.8170983,
+              54.849257
+            ],
+            [
+              -5.8171169,
+              54.849249
+            ],
+            [
+              -5.8170075,
+              54.8491645
+            ],
+            [
+              -5.8169496,
+              54.8491894
+            ],
+            [
+              -5.8169327,
+              54.8491763
+            ],
+            [
+              -5.8166442,
+              54.8493001
+            ],
+            [
+              -5.8167857,
+              54.8494094
+            ],
+            [
+              -5.8168006,
+              54.8494209
+            ],
+            [
+              -5.8171284,
+              54.8492803
+            ]
+          ]
+        ]
+      },
+      "id": "way/1043593539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175118236",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "check_date": "2025-03-04",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "07:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3964289,
+              53.3230713
+            ],
+            [
+              -6.3961383,
+              53.3230496
+            ],
+            [
+              -6.3961119,
+              53.3231621
+            ],
+            [
+              -6.3963992,
+              53.3231857
+            ],
+            [
+              -6.3964289,
+              53.3230713
+            ]
+          ]
+        ]
+      },
+      "id": "way/1175118236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323801480",
+        "addr:city": "Carrick-on-Shannon",
+        "addr:street": "Attifinalay Roundabout",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.079865,
+              53.9462169
+            ],
+            [
+              -8.079995,
+              53.946157
+            ],
+            [
+              -8.0798336,
+              53.9460357
+            ],
+            [
+              -8.0797037,
+              53.9460956
+            ],
+            [
+              -8.079865,
+              53.9462169
+            ]
+          ]
+        ]
+      },
+      "id": "way/1323801480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250638634",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8763809,
+          52.7124078
+        ]
+      },
+      "id": "node/250638634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270197190",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/lurgan/lurgan/8-edward-street/8260886.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+44 28 3832 8000",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3419399,
+          54.4619453
+        ]
+      },
+      "id": "node/270197190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281260257",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2986591,
+          53.3614673
+        ]
+      },
+      "id": "node/281260257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291060852",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3531858,
+          53.7128749
+        ]
+      },
+      "id": "node/291060852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299793964",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "PH,Mo-Su 07:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3397957,
+          53.5257793
+        ]
+      },
+      "id": "node/299793964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387490777",
+        "addr:city": "Swords",
+        "addr:floor": "G",
+        "addr:housenumber": "56",
+        "addr:street": "Main Street",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2023-03-14",
+        "cuisine": "burger",
+        "description": "Classic, long-running fast-food chain known for its burgers, fries & shakes.",
+        "drive_through": "no",
+        "level": "0",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th, Su 07:00-23:00; Fr-Sa 00:00-24:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "phone": "+353-1-8903006",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2209517,
+          53.4566162
+        ]
+      },
+      "id": "node/387490777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/434795533",
+        "addr:city": "Waterford",
+        "addr:postcode": "X91 VW59",
+        "addr:street": "Barronstrand Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "contact:facebook": "https://www.facebook.com/McDonalds/",
+        "contact:instagram": "https://www.instagram.com/mcdonaldsire/",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-We 08:00-20:00; Th 08:00-21:00; Fr 08:00-21:30; Sa 08:00-21:00; Su 09:00-21:00",
+        "phone": "+353 51 843 939",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/eire/waterford---barronstrand-street/st-georges-street/7030.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "website:orders": "https://www.just-eat.ie/restaurants-mcdonalds--barronstrand-street-waterford/menu",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1122622,
+          52.2611063
+        ]
+      },
+      "id": "node/434795533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/456834167",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-07-18",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "07:00-23:00",
+        "takeaway": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.983343,
+          52.8523042
+        ]
+      },
+      "id": "node/456834167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470326932",
+        "addr:city": "Dublin",
+        "addr:housename": "ILAC Centre",
+        "addr:street": "Parnell Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2644416,
+          53.3509526
+        ]
+      },
+      "id": "node/470326932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/511228973",
+        "addr:street": "Wexford Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "opening_hours:drive_through": "Mo-Su 08:00-23:00, Th - Sa 23:00-24:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1637668,
+          52.7934035
+        ]
+      },
+      "id": "node/511228973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/528235829",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4529661,
+          53.3486952
+        ]
+      },
+      "id": "node/528235829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563321029",
+        "addr:housename": "Swan Centre",
+        "addr:street": "Rathmines Road Lower",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "contact:facebook": "https://www.facebook.com/McDonalds/",
+        "contact:instagram": "https://www.instagram.com/mcdonaldsire/",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/dublin-6/rathmines/the-swan-centre/7005.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2652982,
+          53.3236155
+        ]
+      },
+      "id": "node/563321029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582827239",
+        "addr:housename": "Stillorgan Village Shopping Centre",
+        "addr:street": "Old Dublin Road",
+        "addr:unit": "6",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-04-22",
+        "contact:facebook": "https://www.facebook.com/McDonaldsIreland",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "highchair": "yes",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 07:00-24:00; Fr-Su 07:30-01:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+353-1-288-3977",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.mcdonalds.com/ie/en-ie.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1996251,
+          53.2895286
+        ]
+      },
+      "id": "node/582827239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/676841913",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3907973,
+          53.3918123
+        ]
+      },
+      "id": "node/676841913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/681434277",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3904243,
+          53.3532119
+        ]
+      },
+      "id": "node/681434277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/734514376",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3058416,
+          53.8546161
+        ]
+      },
+      "id": "node/734514376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741560497",
+        "addr:city": "Omagh",
+        "addr:country": "GB",
+        "addr:housenumber": "27",
+        "addr:postcode": "BT78 1QZ",
+        "addr:street": "Dromore Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/omagh/omagh---northern-ireland/dromore-road/8261016.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "783010",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-01:00; Su 07:00-23:00",
+        "phone": "+44 28 8224 0916",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3120045,
+          54.5947919
+        ]
+      },
+      "id": "node/741560497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1013323851",
+        "addr:city": "Dundrum",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 08:30-22:15",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/dublin/dundrum-shopping-centre/7073.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2423907,
+          53.2880074
+        ]
+      },
+      "id": "node/1013323851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1159227407",
+        "addr:city": "Monaghan",
+        "addr:housename": "Monaghan Shopping Centre",
+        "addr:street": "Dawson Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "source": "survey",
+        "takeaway": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.969486,
+          54.2462419
+        ]
+      },
+      "id": "node/1159227407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1362181341",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/londonderry/londonderry---strand-rd/200-strand-road/8261122.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-04:59",
+        "phone": "+44 28 7127 9200",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.315079,
+          55.0112642
+        ]
+      },
+      "id": "node/1362181341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1368309579",
+        "addr:city": "Londonderry",
+        "addr:postcode": "BT48 6XY",
+        "addr:street": "Foyle Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/londonderry/foyleside-shopping-centre/foyleside-shopping-centre/8260608.html",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "fhrs:id": "933239",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Tu 08:00-18:00; We-Fr 08:00-21:00; Sa 08:00-19:00; Su 11:00-18:00",
+        "phone": "+44 28 7137 7800",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3192002,
+          54.9947178
+        ]
+      },
+      "id": "node/1368309579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1484606192",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3935127,
+          53.3502205
+        ]
+      },
+      "id": "node/1484606192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500501211",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-03-12",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3183215,
+          53.3162618
+        ]
+      },
+      "id": "node/1500501211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1795667176",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6460206,
+          52.1373007
+        ]
+      },
+      "id": "node/1795667176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802954627",
+        "addr:city": "Croom",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7174291,
+          52.5188431
+        ]
+      },
+      "id": "node/1802954627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861529072",
+        "addr:city": "Galway",
+        "addr:street": "Shop Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2023-08-23",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Tu,Su 08:00-24:00; We-Sa 08:00-03:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0525604,
+          53.2729063
+        ]
+      },
+      "id": "node/1861529072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962721756",
+        "addr:city": "Cork",
+        "addr:street": "Daunt's Square",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.mcdonalds.ie/iehome/home.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4756129,
+          51.89868
+        ]
+      },
+      "id": "node/1962721756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962721760",
+        "addr:city": "Cork",
+        "addr:housenumber": "4-5",
+        "addr:postcode": "T12 Y299",
+        "addr:street": "Winthrop Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "entrance": "main",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "outdoor_seating": "no",
+        "phone": "+353 021 427 2175",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.mcdonalds.ie/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4707694,
+          51.8986002
+        ]
+      },
+      "id": "node/1962721760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295319515",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "fixme": "accurately locate in shopping centre",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1817885,
+          53.3013567
+        ]
+      },
+      "id": "node/2295319515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2340961382",
+        "addr:city": "Enniskillen",
+        "addr:housename": "Cathcart Square",
+        "addr:housenumber": "14",
+        "addr:postcode": "BT74 6HJ",
+        "addr:street": "Dublin Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/enniskillen/enniskillen/cathcart-square/8260954.html",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "fhrs:id": "711568",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-23:45; Su 07:00-23:00",
+        "phone": "+44 28 6632 9329",
+        "self_service": "yes",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6289874,
+          54.3433871
+        ]
+      },
+      "id": "node/2340961382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2348162156",
+        "addr:city": "Dublin",
+        "addr:street": "Jervis Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/ireland/dublin---mary-street/1416-mary-street/7050.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2664212,
+          53.3486145
+        ]
+      },
+      "id": "node/2348162156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513888268",
+        "addr:city": "Dublin",
+        "addr:street": "Temple Bar",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "contact:facebook": "https://www.facebook.com/McDonalds/",
+        "contact:instagram": "https://www.instagram.com/mcdonaldsire/",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "Su-We 07:30-24:00, Th 07:30-24:00, Fr,Sa 07:30-00:45",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/7088.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2636158,
+          53.3455041
+        ]
+      },
+      "id": "node/2513888268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485778207",
+        "addr:city": "Dublin",
+        "addr:housename": "Northside Shopping Centre",
+        "addr:street": "Oscar Traynor Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2121134,
+          53.3954398
+        ]
+      },
+      "id": "node/3485778207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3920657612",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6480703,
+          52.6412226
+        ]
+      },
+      "id": "node/3920657612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454869454",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7019861,
+          52.3535127
+        ]
+      },
+      "id": "node/4454869454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4738369110",
+        "addr:housename": "Oaks Centre",
+        "addr:postcode": "BT71 4AR",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/dungannon/dungannon/the-oaks-centre/8261103.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 06:00-24:00; Fr-Sa 06:00-02:00; Su 06:00-24:00",
+        "phone": "+44 28 8772 7596",
+        "self_service": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7639191,
+          54.5125287
+        ]
+      },
+      "id": "node/4738369110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758207823",
+        "addr:city": "Banbridge",
+        "addr:postcode": "BT32 4GJ",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "contact:website": "https://www.mcdonalds.com/gb/en-gb/location/banbridge/banbridge/the-outlet/8261494.html",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "927837",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "phone": "+44 28 4062 4481",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2769885,
+          54.3333272
+        ]
+      },
+      "id": "node/4758207823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5250588242",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "level": "2",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3722581,
+          53.2866139
+        ]
+      },
+      "id": "node/5250588242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578737375",
+        "addr:city": "Gorey",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/ie/en-ie/location/inch/gorey/m11-service-station/7115.html",
+        "website:menu": "https://www.mcdonalds.com/ie/en-ie/menu",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2026372,
+          52.7504972
+        ]
+      },
+      "id": "node/6578737375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6580148887",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9298899,
+          52.8349251
+        ]
+      },
+      "id": "node/6580148887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735465030",
+        "addr:city": "Cork",
+        "addr:street": "Mahon Point Shopping Centre",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3946427,
+          51.8862845
+        ]
+      },
+      "id": "node/6735465030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6928789369",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7553343,
+          53.0880061
+        ]
+      },
+      "id": "node/6928789369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7472476362",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8270856,
+          53.4007757
+        ]
+      },
+      "id": "node/7472476362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9484991654",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2650441,
+          52.1640052
+        ]
+      },
+      "id": "node/9484991654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10617014298",
+        "addr:city": "Ashbourne",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3993018,
+          53.5102158
+        ]
+      },
+      "id": "node/10617014298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11233706447",
+        "addr:postcode": "BT30 6DR",
+        "addr:street": "Ballydugan Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "fhrs:id": "728798",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "phone": "+44 28 4461 9567",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/gb/en-gb/location/downpatrick/downpatrick---county-down/ballydugan-road/8260964.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7216319,
+          54.3238854
+        ]
+      },
+      "id": "node/11233706447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11395138656",
+        "addr:housenumber": "2",
+        "addr:postcode": "BT13 3LD",
+        "addr:street": "Ballygomartin Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "check_date": "2024-08-31",
+        "check_date:opening_hours": "2024-08-31",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 07:00-24:00; Fr-Su 00:00-24:00",
+        "phone": "+44 7902 278693",
+        "self_service": "yes",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/gb/en-gb/location/belfast/belfast-ballygomartin-road-tesco/2b-ballygomartin-rd/8261674.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9686366,
+          54.6088523
+        ]
+      },
+      "id": "node/11395138656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12356115538",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "entrance": "main",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4710489,
+          51.9156275
+        ]
+      },
+      "id": "node/12356115538"
+    }
+  ]
+}
