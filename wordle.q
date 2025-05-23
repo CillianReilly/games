@@ -14,10 +14,10 @@ lw:{
 	w iasc prd(sum each 1+pf?'/:w;sum each 1+lf?w;exp 5-(count distinct@)each w)
 	}
 
-f:{x where all((f0;f1;f2)distinct z).\:(x;y;)z:@[z;where(z=0)&y in y where z>0;1+]}
+f:{x where all((f0;f1;f2)distinct z).\:(x;y;z)}
 
 f0:{not any each x in y where not z}
-f1:{all(all each(y where z=1)in/:x;not any each(=/:/)(y;x@\:)@\:where z=1)}
+f1:{all(asc[i]~/:asc each x inter\:i:y where z=1;not any each(=/:/)(y;x@\:)@\:where z=1)}
 f2:{x like @[y;where not z=2;:;"?"]}
 
 play:{
