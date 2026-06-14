@@ -16,7 +16,7 @@ lw:{
 
 f:{x where all((f0;f1;f2)distinct z).\:(x;y;z)}
 
-f0:{not any each x in y where not z}
+f0:{not any each'((=/:/)(y;x@\:)@\:where not z;x in y where not z+y in y where z)}
 f1:{all(all each(y[i]#/:count each'group each x)>=\:count each group y i;not any each(=/:/)(y;x@\:)@\:i:where z=1)}
 f2:{x like @[y;where not z=2;:;"?"]}
 
